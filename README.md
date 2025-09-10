@@ -1,6 +1,6 @@
 The supplement materials include the following:
 
-1.data.excel for trade volume and REERs of ten countries;
+1. data.excel for trade volume and REERs of ten countries;
 
 2. Empirical study_Model I.R for the estimation of parameters and rolling time window prediction via Model I*;
 
